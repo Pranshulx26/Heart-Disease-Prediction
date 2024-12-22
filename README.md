@@ -1,4 +1,4 @@
-<img src="heart_pic.png" alt="Heart Icon" style="display: block; margin: 0 auto;" />
+<img src="heart_pic.png" alt="Heart Icon" style="display: block; margin: 0 auto; width:200;" />
 
 # <span style="color: #FF6347;"><strong>Heart Disease Prediction Project</strong></span>
 
