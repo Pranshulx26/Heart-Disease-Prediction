@@ -1,4 +1,4 @@
-<img src="https://via.placeholder.com/100x100?text=❤️" alt="Heart Icon" style="display: block; margin: 0 auto;" />
+<img src="heart_pic.png" alt="Heart Icon" style="display: block; margin: 0 auto;" />
 
 # <span style="color: #FF6347;"><strong>Heart Disease Prediction Project</strong></span>
 
